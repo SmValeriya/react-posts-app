@@ -34,7 +34,7 @@
 **1. Клонуйте репозиторій**
 
 ```
-git clone [https://github.com/SmValeriya/react-posts-app.git](https://github.com/SmValeriya/react-posts-app.git)
+git clone https://github.com/SmValeriya/react-posts-app.git
 ```
 
 **2. Перейдіть у директорію проєкту**
